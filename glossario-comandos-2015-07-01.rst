@@ -4,117 +4,118 @@ Glossário de comandos
 
 :Disciplina: Fundamentos de Sistemas Operacionais
 :Professor: Jurandy Soares
-:Nome: Seu nome completo
-:Matrícula: Sua matrícula
+:Nome: Matheus Miguel Soares de Medeiros Lima
+:Matrícula: 20121144010575
 :Data: 01/07/2015
 
 cat
-  Descrição do comando
+  mostra o conteúdo de um ficheiro e contatena dois ficheiros em um só
 
 
 cd
-  Descrição do comando
+  muda o diretório atual
 
 
 cowsay
-  Descrição do comando
+  exibe mensagem com desenho em ASCII
 
 
 echo
-  Descrição do comando
+  imprime a variável solicitada caso ela exista ou que o usuario determinar
 
 
 env
-  Descrição do comando
+  exibe as variáveis de ambiente
 
 
 exit
-  Descrição do comando
+  termina de executar o que está sendo executado ou a sessão
 
 
 help
-  Descrição do comando
+  mostra arquivo de ajuda
 
 
 HISTTIMEFORMAT="%d/%m/%y"
-  Descrição do comando
+  exibe o historico com data e hora
 
 
 hostname
-  Descrição do comando
+  exibe o nome da máquina
 
 
 ifconfig
-  Descrição do comando
+  visualizar o ip da máquina e outras funções relacionadas ao ip
 
 
 last
-  Descrição do comando
+  verifica o arquivo /var/log/wtmp e informa todos os usuarios conectados desde a criação do arquivo
 
 
 lastb
-  Descrição do comando
+  faz a mesma coisa que o last, porém verifica o arquivo /var/log/btmp, que contem até as tentativas falhas de conexão
 
 
 ls
-  Descrição do comando
+  lista o conteúdo de um diretório
 
 
 mkdir
-  Descrição do comando
+  cria um novo diretório no diretório atual
 
 
 nome="fulano
-  Descrição do comando
+  cria uma variável e atribui valor à ela
 
 
 passswd
-  Descrição do comando
+  muda o password do usuário
 
 
 pwd
-  Descrição do comando
+  verifica em que diretório o usuário se encontra
 
 
 set
-  Descrição do comando
+  define variáveis de sessão
 
 
 tree
-  Descrição do comando
+  mostra a árvore de processos que estão sendo executados
 
 
 tty
-  Descrição do comando
+  mostrar o nome do arquivo conectado à entrada padrão
 
 
 vim
-  Descrição do comando
+  editor de texto full-screen
+  ex: vim ~nome do arquivo~
 
 
 wait
-  Descrição do comando
+  espera que um comando seja executado para depois executar o resto
 
 
 wall
-  Descrição do comando
+  envia o conteúdo de um arquivo como mensagem para todos os usuários
 
 
 which
-  Descrição do comando
+  Exibe o caminho completo na hierarquia de diretorios para os comandos do sistema
 
 
 while
-  Descrição do comando
+  laço de repetição
 
 
 who
-  Descrição do comando
+  mostra quem está logado no sistema
 
 
 whoami
-  Descrição do comando
+  diz quem é usuário
 
 write
-  Descrição do comando
+  mandar mensagens pra algum usuario
 
